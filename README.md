@@ -1,4 +1,4 @@
-# techdegree-p10-RestAPI FullStackAppWithReact&RestAPI
+Project 10 REACT Rest API
 
 to use this app:
 
